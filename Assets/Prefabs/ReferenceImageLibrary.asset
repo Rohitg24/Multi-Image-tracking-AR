@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5092956237736931056
+  m_GuidHigh: 13818637410291912125
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5584053604229002028
+      m_GuidHigh: 15225583386571456943
+    m_SerializedTextureGuid:
+      m_GuidLow: 12453769721836532400
+      m_GuidHigh: 10542641252711995242
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: charizard
+    m_Texture: {fileID: 2800000, guid: 4094f2b0ad94acd46a1747ae5cfc4e92, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5736319209283853771
+      m_GuidHigh: 1002849329650982273
+    m_SerializedTextureGuid:
+      m_GuidLow: 16903376284626414874
+      m_GuidHigh: 3124932183729090777
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: pikachu
+    m_Texture: {fileID: 2800000, guid: 45eb6d1adb2cea94d9b05bb643fd5d2b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5762831688993607484
+      m_GuidHigh: 2958515758811533968
+    m_SerializedTextureGuid:
+      m_GuidLow: 6076689944734845640
+      m_GuidHigh: 14665939787913882458
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 'Squirtle '
+    m_Texture: {fileID: 2800000, guid: 1e1bcac8bd4f54545aebdf9b88e287cb, type: 3}
